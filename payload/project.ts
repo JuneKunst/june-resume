@@ -10,12 +10,10 @@ const project: IProject.Payload = {
       where: 'Mine.is (차란)',
       descriptions: [
         {
-          content:
-            'React 웹뷰 → Flutter 네이티브 대규모 마이그레이션 프로젝트',
+          content: 'React 웹뷰 → Flutter 네이티브 대규모 마이그레이션 프로젝트',
         },
         {
-          content:
-            'WebView-Native 하이브리드 아키텍처 구현 및 멀티 플랫폼 환경 구축',
+          content: 'WebView-Native 하이브리드 아키텍처 구현 및 멀티 플랫폼 환경 구축',
           weight: 'MEDIUM',
           descriptions: [
             { content: 'WebView-Native 하이브리드 아키텍처 구현 (20+ JavaScript 핸들러)' },
@@ -33,12 +31,10 @@ const project: IProject.Payload = {
       where: 'Mine.is (차란)',
       descriptions: [
         {
-          content:
-            'MVP → 70만 사용자 성장을 이끈 초기 프론트엔드 개발',
+          content: 'MVP → 70만 사용자 성장을 이끈 초기 프론트엔드 개발',
         },
         {
-          content:
-            'React 18 + TypeScript 기반 대규모 SPA 아키텍처 설계 및 성능 최적화',
+          content: 'React 18 + TypeScript 기반 대규모 SPA 아키텍처 설계 및 성능 최적화',
           weight: 'MEDIUM',
           descriptions: [
             { content: 'React 18 + TypeScript 기반 대규모 SPA 아키텍처 설계' },
@@ -56,12 +52,10 @@ const project: IProject.Payload = {
       where: 'Mine.is (차란)',
       descriptions: [
         {
-          content:
-            'B2B 물류 시스템 프론트엔드 전담 개발',
+          content: 'B2B 물류 시스템 프론트엔드 전담 개발',
         },
         {
-          content:
-            'React 17 + Material-UI 5 기반 복잡한 비즈니스 로직 구현',
+          content: 'React 17 + Material-UI 5 기반 복잡한 비즈니스 로직 구현',
           weight: 'MEDIUM',
           descriptions: [
             { content: 'QR/바코드 스캐닝 시스템 및 실시간 상품 추적 UI 개발' },
